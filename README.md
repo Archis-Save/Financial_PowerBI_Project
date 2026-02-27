@@ -80,4 +80,4 @@ By leveraging Power BI and DAX, the project transforms raw financial data into a
 Overall, this project demonstrates strong capabilities in data modeling, financial analytics, DAX calculations, and business storytelling through visualization.
 
 Screenshort of Dashboard:-
-![1](https://github.com/Archis-Save/Financial_PowerBI_Project/blob/main/Financial_PowerBI_Project1.PNG)
+![1](https://github.com/Archis-Save/Financial_PowerBI_Project/blob/main/Financial_PowerBI_Project2.PNG)
